@@ -1,0 +1,33 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PointMutation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PointMutation_jar</output-path>
+    <root id="archive" name="PointMutation.jar">
+      <element id="module-output" name="PointMutation" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BioJavaE/lib/forester-1.038.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BioJavaE/lib/log4j-api-2.6.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BioJavaE/lib/log4j-core-2.6.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BioJavaE/lib/slf4j-api-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BioJavaE/lib/biojava-core-5.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BioJavaE/lib/forester-1.038-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BioJavaE/lib/forester-1.038-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BioJavaE/lib/log4j-slf4j-impl-2.6.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BioJavaE/lib/biojava-alignment-5.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BioJavaE/lib/log4j-api-2.6.2-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BioJavaE/lib/log4j-api-2.6.2-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BioJavaE/lib/log4j-core-2.6.2-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BioJavaE/lib/log4j-core-2.6.2-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BioJavaE/lib/slf4j-api-1.7.25-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BioJavaE/lib/slf4j-api-1.7.25-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BioJavaE/lib/biojava-core-5.2.1-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BioJavaE/lib/biojava-core-5.2.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BioJavaE/lib/log4j-slf4j-impl-2.6.2-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BioJavaE/lib/log4j-slf4j-impl-2.6.2-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BioJavaE/lib/biojava-alignment-5.2.1-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BioJavaE/lib/biojava-alignment-5.2.1-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/BioinformaticLib/BioinformaticsLib.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/Apache Commons/commons-io-2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/Apache Commons/commons-cli-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/Apache Commons/commons-math3-3.6.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
